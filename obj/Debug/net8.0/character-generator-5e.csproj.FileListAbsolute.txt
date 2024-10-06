@@ -1,0 +1,15 @@
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\bin\Debug\net8.0\character-generator-5e.exe
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\bin\Debug\net8.0\character-generator-5e.deps.json
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\bin\Debug\net8.0\character-generator-5e.runtimeconfig.json
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\bin\Debug\net8.0\character-generator-5e.dll
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\bin\Debug\net8.0\character-generator-5e.pdb
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.AssemblyInfoInputs.cache
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.AssemblyInfo.cs
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.csproj.CoreCompileInputs.cache
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.sourcelink.json
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.dll
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\refint\character-generator-5e.dll
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.pdb
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\character-generator-5e.genruntimeconfig.cache
+C:\code\code\Fun Projects\character-generator-5e\character-generator-5e\obj\Debug\net8.0\ref\character-generator-5e.dll
